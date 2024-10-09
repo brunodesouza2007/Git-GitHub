@@ -1,4 +1,4 @@
-## DIO | Curso de Git e GitHub
+## DIO | Curso de Git e GitHub Teste
 
 README.md para armazenar o índice de conteúdos do curso de Git e GitHub da DIO [Digital Inovation One.](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/)
 
